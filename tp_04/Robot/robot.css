@@ -1,0 +1,95 @@
+
+#robot{
+    height: 600px;
+    width: 400px;
+    
+}
+#tete{
+   
+    height: 40%;
+    width: 82%;
+    position: relative;
+    left: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top-right-radius: 500px;
+    border-top-left-radius: 500px;
+    
+    top: 58%;
+    left: 97px;
+}
+#eyg,#eyd{
+    border: 1px solid green;
+    border-radius: 10px;
+    height: 15%;
+    width: 5%;
+    background-color: white;
+}
+#t{
+    height: 30%;
+    width: 60%;
+}
+#bod{
+    height: 40%;
+    width: 100%;
+    
+}
+#fot{
+    height: 29.5%;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-around;
+}
+#mg,#md{
+    
+    border: 1px solid black;
+    height: 70%;
+    width: 10%;
+    border-bottom: 50px;
+    display: inline-block;
+    position: fixed;
+    border-radius: 20px;
+    
+}
+#mg{
+    position: relative;
+    bottom: 70px;
+    left: 45px;
+}
+#md{
+    position: relative;
+    left: 55px;
+    bottom: 70px;
+}
+#krch{
+    border: 1px solid black;
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+    border-radius: 18px;
+    position: relative;
+    left: 50px;
+}
+#fg{
+    position: relative;
+    left: 60px;
+    bottom: 35px;
+}
+#fd{
+    position: relative;
+    right: 60px;
+    bottom: 35px;
+}
+#fg,#fd{
+    width: 6%;
+    height: 70%;
+    border-radius: 10px;
+    border: 0.5px solid black;
+    /*display: inline-block;*/
+    
+}
+#tete,#krch,#md,#mg,#fg,#fd{
+    background-color: #78C257;
+}
