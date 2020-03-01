@@ -1,0 +1,48 @@
+
+/*------------- index--------------*/
+
+body {
+    background-image: url("../images/app.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+a {
+    background: #333;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    
+
+}
+a:hover{
+    background:springgreen;
+    color: black;
+}
+
+/*---------------- produits --------------------*/
+table, th, td {
+    padding: 10px;
+    border: 1px solid black; 
+    border-collapse: collapse;
+}
+/*---------------- contact --------------------*/
+.snd{
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+}
+.snd:hover{
+    background: rgb(238, 255, 0);
+    color: black;
+}
+#body {
+    background-image: url("images/cntct.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+
+}
