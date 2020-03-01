@@ -1,0 +1,150 @@
+  /*-------------------- index----------------------------------*/
+
+body {
+    background-image: url("../images/app.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+
+}
+mark{
+    border-radius: 20px;
+}
+mark:hover{
+    box-shadow: 10px 10px rgb(72, 230, 9);
+}
+#font{
+    font-family: 'Trade Winds' ;
+    color: white;
+    text-align: center;
+}
+#photos{
+   /* border: 1px solid gray;*/
+    display: flex;
+    justify-content: space-around;
+
+}
+.apl{
+    /*border: 0.1px dashed red;*/
+    border-radius: 20px;
+    width: 85%;
+}
+.pi{
+    width: 85%;
+    border: 5px solid gray;
+    border-radius: 20px;
+}
+.menu{
+    
+    position: fixed;
+    margin: 0px;
+}
+#txt{
+    position: relative;
+    left: 0px;
+    height: 100%;
+    width: 60%;
+}
+#image{
+ /*   background-image: url("../images/hardwer.jpg");
+    border: 1px solid black;*/
+    height: 100%;
+    width: 40%;
+    position: relative;
+    right: 0px;
+    top: 0px;
+}
+#imagee{
+    height: 700px;
+    width: 520px;
+    border: 10px double rgb(160, 31, 74);
+    border-radius: 20px;
+}
+#mod{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    background: #333;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: 10px 10px gray;
+    
+
+}
+a:hover{
+    background:rgb(200, 255, 0);
+    color: black;
+}
+/* -----------------------contact -----------------------------------------------...--*/
+#contact {
+    background-image: url("../images/cntct.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+
+}
+a {
+    background: #333;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: 10px 10px gray;
+
+}
+a:hover{
+    background:springgreen;
+    color: black;
+}
+.snd{
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+/*---------------------- produite ----------------------------------*/
+table, th, td {
+    padding: 10px;
+    border: 1px solid black; 
+    border-collapse: collapse;
+    }
+</style>
+<style>
+a {
+    background: #333;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: 10px 10px gray;
+    
+
+
+}
+a:hover{
+    background:springgreen;
+    color: black;
+}
+/*------------------------------------ a propos -------------------------------------------------*/
+a {
+    background: #333;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+a:hover{
+    background:springgreen;
+    color: black;
+}
+
