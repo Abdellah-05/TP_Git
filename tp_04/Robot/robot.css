@@ -11,11 +11,10 @@
     position: relative;
     left: 20%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     border-top-right-radius: 500px;
-    border-top-left-radius: 500px;
-    
+    border-top-left-radius: 500px;  
     top: 58%;
     left: 97px;
 }
@@ -36,7 +35,7 @@
     
 }
 #fot{
-    height: 29.5%;
+    height: 30%;
     width: 100%;
     
     display: flex;

@@ -8,7 +8,7 @@ function somme(t){
 }
 var t=new Array();
 do{
-    var v=prompt("Donnez un nombre  :)");
+    v=prompt("Donnez un nombre  :)");
     v=parseInt(v);
     console.log(v);
     if(!(isNaN(v))) t.push(v);

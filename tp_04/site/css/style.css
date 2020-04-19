@@ -1,12 +1,13 @@
   /*-------------------- index----------------------------------*/
 
 body {
-    background-image: url("../images/app.jpg");
+    background-image: url("../images/app.jpg"); 
     background-repeat: no-repeat;
     background-size: 100% 100%;
     
 
 }
+
 mark{
     border-radius: 20px;
 }
@@ -89,7 +90,8 @@ a:hover{
 }
 a {
     background: #333;
-    padding: 15px;
+    padding: 0px;
+    margin: 0px;
     text-decoration: none;
     color: #fff;
     border-radius: 5px;

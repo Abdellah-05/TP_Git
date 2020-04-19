@@ -41,7 +41,7 @@ table, th, td {
     color: black;
 }
 #body {
-    background-image: url("images/cntct.jpg");
+    background-image: url("../images/cntct.jpg");
     background-repeat: no-repeat;
     background-size: 100% 150%;
 
